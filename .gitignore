@@ -1,0 +1,35 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# ???
+dependency-reduced-pom.xml
+
+#Logging
+sample-log.txt
+
+*.gz
+/data
+/target
+/ezelastic/target
+/ezelastic/data
+/elastic-common/target
+/elastic-thrift/target
+/elastic-security/target
+/ezelastic-thrift/target
+*.iml
+/.idea
+/out

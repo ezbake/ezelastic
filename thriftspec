@@ -1,0 +1,2 @@
+thrift_input_path: 'ezelastic-thrift/src/main/thrift'
+java_output_path: 'ezelastic-thrift/src/main/java'
